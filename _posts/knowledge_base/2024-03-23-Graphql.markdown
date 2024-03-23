@@ -14,7 +14,7 @@ I think it was one of the biggest challenges in my "career" so far. In this post
 
 * [Introduction to GraphQL from Confitura 2019 (PL)](https://www.youtube.com/watch?v=lJiOay1fk_g)
 * [GraphQL tutorial from official site](https://graphql.org/learn/)
-* [graphql-java documentation](https://www.graphql-java.com/documentation/master/)
+* [graphql-java documentation](https://www.graphql-java.com/documentation/master/getting-started)
 * [graphql specification](https://spec.graphql.org/)
 
 
