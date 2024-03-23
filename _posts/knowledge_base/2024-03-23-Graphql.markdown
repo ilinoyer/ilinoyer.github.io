@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "GraphQL"
+date:   2024-03-23 10:00:00 +0100
+categories: Knowledge Base
+---
+
+In my previous company, I had a chance to work with GraphQL.
+We used this technology a bit non-standard, which required us to create new tools. 
+One requirement we struggled with a lot was that the GraphQL scheme could change at runtime of the system. 
+I think it was one of the biggest challenges in my "career" so far. In this post, I would like to share with you some resources that I found useful at the time.
+
+#### GraphQL 
+
+* [Introduction to GraphQL from Confitura 2019 (PL)](https://www.youtube.com/watch?v=lJiOay1fk_g)
+* [GraphQL tutorial from official site](https://graphql.org/learn/)
+* [graphql-java documentation](https://www.graphql-java.com/documentation/master/)
+* [graphql specification](https://spec.graphql.org/)
+
+
+#### Apollo federations
+
+* [Blogpost about Apollo Federation](https://www.apollographql.com/blog/apollo-federation-f260cf525d21/)
+* [Apollo Federation documentation](https://www.apollographql.com/docs/apollo-server/federation/introduction/)
+* [Apollo Schema Federation by James Baxley GraphQL Conf 2019](https://www.youtube.com/watch?v=Uw-Z1aUQvgg)
+* [Apollo Federation on the JVM](https://github.com/apollographql/federation-jvm)
+
+#### Netflix worth reading articles
+
+* [Beyond REST](https://netflixtechblog.com/beyond-rest-1b76f7c20ef6)
+* [Our learnings from adopting GraphQL](https://netflixtechblog.com/our-learnings-from-adopting-graphql-f099de39ae5f)
+* [GraphQL Search Indexing](https://netflixtechblog.com/graphql-search-indexing-334c92e0d8d5)
+* [How Netflix Scales its API with GraphQL Federation (Part 1)](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-1-ae3557c187e2)
+* [How Netflix Scales its API with GraphQL Federation (Part 2)](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-2-bbe71aaec44a)
