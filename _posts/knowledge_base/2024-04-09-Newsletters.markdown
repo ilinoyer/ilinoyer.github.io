@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Newsletters"
-date:   2024-04-09 23:00:00 +0100
+date:   2024-04-09 23:00:00 +0200
 categories: Knowledge Base
 ---
 
